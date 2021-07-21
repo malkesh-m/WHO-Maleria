@@ -1,0 +1,66 @@
+	Who asign to super manager 
+	super manager 
+		Pending countris
+		
+	Viewer register -- 
+			Invite - to azure login
+	Manager
+	
+	Once you are manager then you are manager
+	when user login into sytem fist time then it -Active
+	when the viewer haven't accept the request then 
+	
+	
+	
+Assesment - manager is compulsory
+
+Types of assesment
+	rapid -priority
+	tailor -select with optional
+	comrihensive - all 
+
+	Supermanager- make assesment for a country 
+		asign the manager
+	manager- make assesment for perticular country
+	all part in assesment is require 
+	Assement role
+	Revieviewer 
+	
+Objective
+	Subobjective
+
+strategies (basaed on strategies then select subobjective-objective)
+	maleria strategies - Optional strategies
+	servelance strategies
+	
+	
+Sayli will provide the access of figma
+Desk
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://www.figma.com/file/0Nj6oi5rJtQ7aUVcaxyYD9/WHO-MALARIA?node-id=0%3A1
+===========================================
+Username – Malkesh.M
+Password- MMT%zst@jk%2089
+Email id- malkesh.m@e-zest.in
+OWA Access URL-  https://webmail.e-zest.in/owa
+=================================================
+VPN Details as follows,
+ 
+e-Zest IP: 14.141.107.90
+Username- Malkesh.M (Username is case sensitive)
+Password-  MMT%zst@vpn$3078
+
+Desktop login Password-MMT%zst@jk%2089
+
+
+Once connected to VPN take remote desktop of your system IP- 172.51.21.164
+And use login credentials-  ezest\Malkesh.M and your email password.
+Email Password- MMT%zst@jk%2089
+=================================================
+
+Skype for Ezest
+malkesh.m.ezest@outlook.com
+MMT%zst@jk%2089
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
